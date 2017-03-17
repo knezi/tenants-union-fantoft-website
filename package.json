@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ath88/tenants-union-fantoft-website/issues"
   },
-  "homepage": "https://github.com/ath88/tenants-union-fantoft-website#readme"
+  "homepage": "https://github.com/ath88/tenants-union-fantoft-website#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
