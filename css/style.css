@@ -1,0 +1,48 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+#top {
+	background: orange;
+}
+
+#contact {
+	float: right;
+	background: green;
+}
+
+#intro {
+	background: red;
+	display: inline-block;
+}
+
+#intro img {
+	float: left;
+}
+
+#intro #name {
+	font-size: 2em;
+	display: block;
+}
+
+#intro div {
+	display: inline-block;
+}
+
+#sidebar {
+	float: right;
+	background: yellow;
+}
+
+#top ul li {
+	display: inline-block;
+}
+
+#top ul ul li {
+	display: block;
+}
+
+#contents {
+	background: gray;
+}
