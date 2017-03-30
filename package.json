@@ -1,6 +1,6 @@
 {
   "name": "tenants-union-fantoft-website",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Website for the Tenants Union at Fantoft",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ath88/tenants-union-fantoft-website#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "showdown": "^1.6.4"
   }
 }
